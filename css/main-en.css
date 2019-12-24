@@ -368,7 +368,7 @@ html[dir=ltr] .news-btn span {
 @media (max-width: 767px) {
     .mo-navbar {
         position: fixed;
-        left: 0;
+        left: -100%;
         top: 0;
         bottom: 0;
         flex-direction: column;
