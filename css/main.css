@@ -1067,6 +1067,9 @@ html[dir=ltr] .sliders-head .tab-link {
 }
 
 @media (max-width: 767px) {
+.cat1-pro {
+margin-top: 30px;
+    }
   .cat2-pro {
     background-color: #f7f7f7;
   }
